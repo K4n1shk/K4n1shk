@@ -14,7 +14,7 @@
 - StackOverflow: [stackoverflow.com/kanishk-kunal][stackoverflow]
 - GitHub: [github.com/K4n1shk][github]
 - LinkedIn: [linkedin.com/in/kanishk-kunal-iiitk][linkedin]
-- E-mail: k4n1shk1501@gmail.com
+- E-mail: [Email-ID][mail]
 <hr>
 
 ### 📚 Looking for my Resume? E-Mail me!
@@ -32,3 +32,4 @@
 [stackoverflow]: https://stackoverflow.com/users/13345506/kanishk-kunal
 [github]: https://github.com/K4n1shk
 [linkedin]: www.linkedin.com/in/kanishk-kunal-iiitk
+[mail]: k4n1shk1501@gmail.com
