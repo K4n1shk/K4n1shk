@@ -13,8 +13,8 @@
 
 - StackOverflow: <a href="https://stackoverflow.com/users/13345506/kanishk-kunal" target="_blank">[stackoverflow]</a>
 - GitHub: <a href="https://github.com/K4n1shk" target="_blank">[github]</a>
-- LinkedIn: <a href="www.linkedin.com/in/kanishk-kunal-iiitk" target="_blank">[linkedin]</a>
-- E-mail: <a href="k4n1shk1501@gmail.com" target="_blank">[mail]</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/kanishk-kunal-iiitk" target="_blank">[linkedin]</a>
+- E-mail: <a href="https://k4n1shk1501@gmail.com" target="_blank">[mail]</a>
 <hr>
 
 ### 📚 Looking for my Resume? E-Mail me!
