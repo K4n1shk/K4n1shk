@@ -11,10 +11,10 @@
 
 ### 📬 Get in Touch
 
-- StackOverflow: [stackoverflow.com/kanishk-kunal][stackoverflow]
-- GitHub: [github.com/K4n1shk][github]
-- LinkedIn: [linkedin.com/in/kanishk-kunal-iiitk][linkedin]
-- E-mail: [Email-ID][mail]
+- StackOverflow: <a href="https://stackoverflow.com/users/13345506/kanishk-kunal" target="_blank">[stackoverflow]</a>
+- GitHub: <a href="https://github.com/K4n1shk" target="_blank">[github]</a>
+- LinkedIn: <a href="www.linkedin.com/in/kanishk-kunal-iiitk" target="_blank">[linkedin]</a>
+- E-mail: <a href="k4n1shk1501@gmail.com" target="_blank">[mail]</a>
 <hr>
 
 ### 📚 Looking for my Resume? E-Mail me!
@@ -29,7 +29,3 @@
   <br>
 </p>
 
-[stackoverflow]: https://stackoverflow.com/users/13345506/kanishk-kunal
-[github]: https://github.com/K4n1shk
-[linkedin]: www.linkedin.com/in/kanishk-kunal-iiitk
-[mail]: k4n1shk1501@gmail.com
