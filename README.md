@@ -5,7 +5,7 @@
 - 🔭 I'm currently pursuing Bachelor's Degree in CSE at IIITDM Kurnool
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other on open source projects
-- 🥅 2021 Goals: Get an internship
+- 🥅 2022 Goals: Get a job
 - ⚡ Fun fact: My first code was not 'Hello, World!'
 <hr>
 
